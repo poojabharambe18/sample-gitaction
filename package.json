@@ -1,0 +1,9 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "Sample Node App for GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
